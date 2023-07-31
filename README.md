@@ -23,11 +23,11 @@ Download the expo go app to use the app
 ![photo_1_2023-04-17_01-01-18](https://user-images.githubusercontent.com/86157858/232337774-49b88bf6-3c31-49fb-b98c-1f1fbb248b98.jpg)
 ![photo_4_2023-04-17_01-01-18](https://user-images.githubusercontent.com/86157858/232337776-9a6bba13-6c36-4436-97bb-910c98163a49.jpg)
 
-[Demo Video](https://drive.google.com/file/d/1SoSWa4GJClb9ElyU_PH_DAphqOsDiIFY/view?usp=sharing)
+
 
 # Installation
 1. Clone the repo
-### `git clone https://github.com/sagar1621/Goals-app.git`
+### `git clone https://github.com/shri3016/Goals-app.git`
 
 Then run
 ### `npx expo start`
