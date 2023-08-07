@@ -14,7 +14,7 @@ Implemented a React Native app that allows users to play a number guessing game.
 
 # This app is created using React Native
 Download the expo go app to use the app
-[Live](https://qr.expo.dev/expo-go?owner=sagar1621&slug=Guess-Game&releaseChannel=default&host=exp.host)
+
 
 # ScreenShots
 ![photo_3_2023-04-17_01-01-18](https://user-images.githubusercontent.com/86157858/232337817-34d4ad8f-0136-450f-8dfd-bf4431bfe141.jpg)
